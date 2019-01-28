@@ -6,7 +6,7 @@ The assessment consisted of two assignments which required the cleaning, process
 Insights into items such as the following were gained by processing the information in these datasets:
 
 #### GP prescribing data from the NHS
-1. Descriptive statistics of London and Cambridge GP prescribing trends
+1. Comparison of the top 10 most pescribed drugs in London and Cambridge
 <img src="https://github.com/CM-DATASCI/DMHR-Assignment/blob/master/ss_table2.png" alt="drawing" width="600"/>
 
 2. The total cost of prescriptions and the number of patients in each practice
